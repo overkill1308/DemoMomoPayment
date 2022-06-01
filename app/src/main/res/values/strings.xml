@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoMomo</string>
+    <string name="not_receive_info">Not receive info!</string>
+    <string name="not_receive_info_err">Not receive info error!</string>
+</resources>
